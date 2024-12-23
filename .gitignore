@@ -1,0 +1,14 @@
+.classpath
+.project
+target/
+.settings/
+.mvn/
+.idea/
+*.iml
+.terraform/
+/activemq-data/
+.graphqlconfig
+retention.http
+.DS_Store
+rewrite.yml
+src/main/resources/application-local.yml
